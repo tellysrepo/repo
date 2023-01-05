@@ -1,0 +1,23 @@
+<package>
+	<id>com.icraze.complicationsfix</id>
+	<name>ComplicationsFix</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>15.0</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Fix Complications tweak on iOS 15 (and maybe 16)</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
