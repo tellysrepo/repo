@@ -4,11 +4,10 @@ Section: Tweaks
 Maintainer: Telly 
 Depends: firmware (>15.0)
 Architecture: iphoneos-arm
-Filename: ./debs/com.icraze.complicationsfix.deb
+Filename: debs/com.icraze.complicationsfix.deb
 Size: 4288
 MD5sum: 1fac5be082c94fc09dcb1fbbbe2048c0
 Description: Fix Complciations tweak on iOS 15 (and maybe 16)
 Name: ComplicationsFix
 Author: iCraze
-Depiction: https://tellysrepo.github.io/repo/depictions/complicationsfix
 
